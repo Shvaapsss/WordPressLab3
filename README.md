@@ -90,6 +90,9 @@ Appearance → Themes
 -   архивы через archive.php\
 -   комментарии отображаются под постами
 
+<img width="1902" height="958" alt="image" src="https://github.com/user-attachments/assets/cfe86f6c-3859-4cfb-a898-add15096f9ac" />
+
+
 ------------------------------------------------------------------------
 
 ## ❓ Ответы на контрольные вопросы
