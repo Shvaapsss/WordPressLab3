@@ -1,0 +1,69 @@
+/*
+Theme Name: USM Theme
+Theme URI: http://localhost/wp_lab2
+Author: Nikita Pyslar
+Description: Простая тема WordPress для лабораторной работы №3
+Version: 1.0
+Text Domain: usm-theme
+*/
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #f4f6f8;
+    color: #222;
+}
+
+.site-header {
+    background: #1e3a5f;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+.site-header a {
+    color: white;
+    text-decoration: none;
+}
+
+.container {
+    width: 90%;
+    max-width: 1200px;
+    margin: 20px auto;
+    display: flex;
+    gap: 20px;
+}
+
+.content {
+    flex: 3;
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.sidebar {
+    flex: 1;
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.post {
+    margin-bottom: 25px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #ddd;
+}
+
+.site-footer {
+    background: #1e3a5f;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    margin-top: 20px;
+}
+
+.comments-area {
+    margin-top: 30px;
+    padding-top: 20px;
+    border-top: 1px solid #ddd;
+}
